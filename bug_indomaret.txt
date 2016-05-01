@@ -1,0 +1,19 @@
+bug :
+
+1# data yang sudah diinputkan bisa diinputkan lagi 	//resolved
+2# login transaksi error pada input			//resolved
+3# nama barang tidak keluar pada anggota nama_barang
+   ke 2 - seterusnya					//resolved
+4# tidak mentotal jumlah barang yang diinputkan		//resolved
+5# total penjualan masih muncul pada saat transaksi 
+   ke-2 dan seterusnya					//resolved
+6# total penjualan pada laporan tidak menjumlah semua   //resolved
+7# total penjualan pada transaksi tidak menjumlah
+   setelah item kedua dan seterusnya			//resolved
+8# pada transaksi masih terdapat kalimat yang
+   tidak tehapus					//resolved
+9# inputan ngawur pada harga belum diantisipasi
+10# perlu penambahan simbol "Rp" pada nominal
+11# laporan belum dibuat tabel				//resolved
+12# panjang inputan tidak diantisipasi
+13# sistem logout tidak ada
